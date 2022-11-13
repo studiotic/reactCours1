@@ -35,6 +35,8 @@ const Countries = () => {
                     onChange={(e) => setRangeValue(e.target.value)}
                 />
 
+
+
                 {/* on va faire un mapping du array continent pour afficher les 5 continents*/}
                 {
                     arrayContinents.map((continent) => (

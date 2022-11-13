@@ -14,17 +14,8 @@ const Home = () => {
             <p>Lorem ipsum Lorem ipsum Lorem ipsum
                 Lorem ipsum Lorem ipsum Lorem ipsum
                 Lorem ipsum Lorem ipsum Lorem ipsum
-                Lorem ipsum Lorem ipsum Lorem ipsum
-                Lorem ipsum Lorem ipsum Lorem ipsum
-                Lorem ipsum Lorem ipsum Lorem ipsum Lorem
-                ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-                Lorem ipsum Lorem ipsum Lorem ipsum Lorem i
-                psum Lorem ipsum Lorem ipsum Lorem ipsum L
-                orem ipsum Lorem ipsum Lorem ipsum Lor
-                em ipsum Lorem ipsum Lorem ipsum Lor
-                em ipsum Lorem ipsum Lorem ipsum
-            </p>
 
+            </p>
 
         </div>
     );
